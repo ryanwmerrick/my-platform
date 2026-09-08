@@ -918,3 +918,4 @@ If a convention changes, update the source-of-truth file rather than relying on 
 Changes to the guide should normally be reviewed through a pull request when they represent a meaningful project convention change.
 
 The guide should remain useful, accurate, and proportional to the project’s actual needs.
+   
